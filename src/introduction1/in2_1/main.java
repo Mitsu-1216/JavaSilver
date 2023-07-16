@@ -4,8 +4,16 @@ public class main {
     public static void main(String[] args) {
 
         int val = 7;
-        bool flg = true;
-        System.out.println();
+        // boolという型はない
+        // bool flg = true;
+        boolean flg = true;
+        if (flg == true) {
+            do {
+                System.out.println(val);
+
+            } while (val > 10);
+
+        }
     }
 
 }
