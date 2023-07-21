@@ -1,9 +1,11 @@
 public class Sample {
     private var value;
-    pubic Sample(var value){
+
+    public Sample(var value) {
         this.value = value;
     }
-    public void test(){
+
+    public void test() {
         System.out.println(value);
     }
 }
