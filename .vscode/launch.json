@@ -1,0 +1,280 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "simpleimp",
+            "request": "launch",
+            "mainClass": "introduction1.in1_4.simpleimp",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "introduction1.in2_1.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(1)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_10.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(2)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_11.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(3)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_12.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(4)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_13.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(5)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_14.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(6)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_15.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(7)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_16.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(8)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_17.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(9)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_18.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(10)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_19.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(11)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_2.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(12)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_20.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(13)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_21.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(14)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_22.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(15)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_3.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(16)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_4.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(17)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_5.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(18)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_6.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(19)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_7.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(20)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_8.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(21)",
+            "request": "launch",
+            "mainClass": "introduction1.in2_9.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(22)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_1.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(23)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_10.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(24)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_11.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(25)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_12.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(26)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_13.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(27)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_2.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(28)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_3.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(29)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_4.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(30)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_5.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(31)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_6.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(32)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_7.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(33)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_8.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "main(34)",
+            "request": "launch",
+            "mainClass": "introduction1.in3_9.main",
+            "projectName": "Java_S_c572e36e"
+        },
+        {
+            "type": "java",
+            "name": "simpleimp(1)",
+            "request": "launch",
+            "mainClass": "simpleimp",
+            "projectName": "Java_S_c572e36e"
+        }
+    ]
+}
