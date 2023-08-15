@@ -1,23 +1,17 @@
-package introduction1.in3_19;
+package introduction1.in3_21;
 
 public class main {
     public static void main(String[] args) {
-        final int NUM = 10;
-        int num = 10;
+        int num = 1;
         switch (num) {
-            case "10":
-            System.out.print("A");
-            break;
-            case num:
+            case 1:
+            case 2:
+            case 3:
+                System.out.print("A");
+            case 4:
                 System.out.print("B");
-                break;
-            case 5*5:
+            default:
                 System.out.print("C");
-                break;
-            case NUM:
-                System.out.print("D");
-                break;
         }
-
     }
 }
