@@ -2,14 +2,13 @@ package introduction4.in4_15;
 
 public class main {
     public static void main(String[] args) {
-        int[] array={1,2,3,4,5};
+        int[] array = { 1, 2, 3, 4, 5 };
         int total = 0;
-        for (int i:array){
-            
+        for (int i : array) {
+            if (i % 2 == 0)
+                continue;
+            total += i;
         }
-        do {
-            num++;
-        } while (++num < 10);
-        System.out.println(num);
+        System.out.println(total);
     }
 }
